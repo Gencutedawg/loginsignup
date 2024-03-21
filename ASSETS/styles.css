@@ -1,0 +1,46 @@
+/* Add your custom styles here */
+
+.card {
+    margin-top: 50px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .modal-body {
+    text-align: center;
+  }
+  
+  .btn-facebook, .btn-google {
+    color: white;
+  }
+  
+  .btn-facebook {
+    background-color: #3b5998;
+  }
+  
+  .btn-google {
+    background-color: #dd4b39;
+  }
+  
+  .btn-facebook:hover, .btn-google:hover {
+    color: white;
+    opacity: 0.8;
+  }
+  
+  body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url(ASSETS/bg.jpg); /* Replace 'path/to/your/downloaded/image.jpg' with the actual path to your downloaded image */
+      background-size: cover;
+      background-position: center;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif;
+}
+
+
